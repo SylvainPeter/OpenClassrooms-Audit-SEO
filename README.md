@@ -1,2 +1,1 @@
-# sylvainpeter.github.io
-Test Site La Chouette Agence
+OpenClassrooms Projet #4 - Intégration du site web d'une agence de webdesign
