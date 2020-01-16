@@ -1,1 +1,1 @@
-OpenClassrooms Projet #4 - Audit SEO et optimisation des performances du site web d'une agence de webdesign
+OpenClassrooms Projet #4 - Audit SEO & optimisation des performances du site web d'une agence de webdesign
